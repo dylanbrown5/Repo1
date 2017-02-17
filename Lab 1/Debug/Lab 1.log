@@ -1,0 +1,6 @@
+﻿  MainClass.cpp
+k:\cs114\lab 1\lab 1\mainclass.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+k:\cs114\lab 1\lab 1\mainclass.cpp(40): warning C4474: 'printf' : too many arguments passed for format string
+  k:\cs114\lab 1\lab 1\mainclass.cpp(40): note: placeholders and their parameters expect 1 variadic arguments, but 3 were provided
+  Lab 1.vcxproj -> K:\CS114\Lab 1\Debug\Lab 1.exe
+  Lab 1.vcxproj -> K:\CS114\Lab 1\Debug\Lab 1.pdb (Partial PDB)

@@ -21,7 +21,7 @@ float computeAnnualNet(float salary, float taxRate);
 
 int main()
 {
-	const float taxRate = 0.2;					//assume 20% tax
+	const float taxRate = 0.25;					//assume 25% tax
 
 	float salary;
 	while (true)
